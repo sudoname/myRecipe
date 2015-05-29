@@ -9,6 +9,7 @@ gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.3'
 #added by yomi
 gem 'bootstrap-sass', '~> 3.3.4'
+
 gem 'autoprefixer-rails'
 
 # Use Uglifier as compressor for JavaScript assets
